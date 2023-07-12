@@ -120,3 +120,5 @@ Sponsors template:
 ## License
 
 The [MIT License](LICENSE).
+
+## Notion Update
