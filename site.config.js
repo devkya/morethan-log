@@ -8,11 +8,11 @@ const CONFIG = {
     email: "kihaok@gmail.com",
     linkedin: "",
     github: "devkya",
-    instagram: "devkya",
+    instagram: "_devkya",
   },
   projects: [
     {
-      name: `devkya blog`,
+      name: `소리를 보다(C-Sound)`,
       href: "https://github.com/devkya",
     },
   ],
