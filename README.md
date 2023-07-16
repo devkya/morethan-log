@@ -122,4 +122,4 @@ Sponsors template:
 The [MIT License](LICENSE).
 
 ## Notion Update
-1. black formmater 추가
+1. black formmater 추가(업데이트)
