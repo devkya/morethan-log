@@ -124,4 +124,4 @@ The [MIT License](LICENSE).
 ## Notion Update
 1. black formmater 추가(업데이트)
 2. 초기 세팅 포스트 추가
-3. websocket 포스트 추가
+3. websocket 포스트 추가!
